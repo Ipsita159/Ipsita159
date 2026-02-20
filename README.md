@@ -18,4 +18,5 @@ I approach software engineering as both a science and an art.<br><br>I am buildi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ipsita159&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night)
 
