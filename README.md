@@ -19,4 +19,4 @@ I approach software engineering as both a science and an art.<br><br>I am buildi
 ---
 [![](https://visitcount.itsvg.in/api?id=Ipsita159&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Pacman](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![Pacman](https://github.com/Ipsita159/Ipsita159/blob/output/github-contribution-grid-snake-dark.svg)
