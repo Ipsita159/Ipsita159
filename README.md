@@ -1,6 +1,17 @@
 # 💫 About Me:
 I approach software engineering as both a science and an art.<br><br>I am building a strong foundation in core computer science principles—algorithms, data structures, and system design—while learning to write clean, well-structured, and maintainable code.<br><br>My focus is on understanding the theory behind software and applying it thoughtfully through experimentation and practice. I value clarity over complexity, depth over shortcuts, and long-term thinking over quick fixes.<br><br>This space represents my learning journey, exploration, and gradual refinement as I grow as an engineer.<br><br>Always learning, always improving—working toward engineering solutions that stand the test of time.
 
+# Hi I'm Ipsita 👋
+
+🎓 IT Student | Sem 
+🌱 Currently Learning: Bachelors in AI (Hons)
+📍 Kathmandu, Nepal
+
+## 🔗 Quick Links
+- 📚 [Link 1](paste repo link)
+- 🏆 [Link 2](paste repo link)
+- 📝 Blog()
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ipsitashrisanray@gmail.com) 
